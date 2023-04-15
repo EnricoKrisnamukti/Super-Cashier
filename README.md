@@ -2,9 +2,7 @@
 
 ## 1. Latar Belakang
 Sebuah supermarket ingin menerapkan jenis pelayanan self-service. Pelayanan jenis ini memungkinkan pelanggan untuk melakukan pembelian
-tanpa perlu berada di supermarket tersebut. Hal ini membuka potensi naiknya pendapatan supermarket karena jangkauan supermarket tersebut 
-menjadi lebih luas sehingga semakin besar potensi pelanggan untuk melakukan transaksi di supermarket
-tersebut.
+tanpa perlu berada di kota tempat supermarket tersebut.
 
 ## 2. Requirements
 1) Membuat proses untuk menghasilkan ID transaksi pelanggan
