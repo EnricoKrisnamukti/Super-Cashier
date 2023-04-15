@@ -15,7 +15,7 @@ tersebut.
     c) Update jumlah barang
 4) Membuat fitur hapus barang
 5) Membuat fitur untuk mereset daftar belanjaan
-6) Membuat fitur untuk melakukan pengecekan pesanan pelanggan
+6) Membuat fitur untuk melakukan pengecekan pesanan pelanggan dan menampilkan pesanan dalam bentuk tabel
 7) Membuat fitur untuk melihat harga total belanjaan dan menentukan diskon
 berdasarkan harga total belanjaan. Diskon tersebut terbagi dalam 3 kategori
 sebagai berikut :
@@ -25,8 +25,11 @@ sebagai berikut :
     
 
 ## 3. Flowchart
+![Untitled Diagram drawio (13)](https://user-images.githubusercontent.com/117027412/232237358-b5d441b1-b757-4644-99ec-72e79398b94f.png)
 
 ## 4. Fungsi dan Atribut
+1)  Fungsi __init__
+    a) nama_depan
 
 ## 5. Demonstrasi
 
