@@ -1,8 +1,7 @@
 # Python Project: Super Cashier
 
 ## 1. Latar Belakang
-Sebuah supermarket ingin menerapkan jenis pelayanan self-service. Pelayanan jenis ini memungkinkan pelanggan untuk melakukan pembelian
-tanpa perlu berada di kota tempat supermarket tersebut.
+Sebuah supermarket ingin menerapkan sistem pelayanan self-service. Sistem pelayanan yang berbasis python ini memungkinkan pelanggan untuk melakukan pembelian tanpa perlu berada di kota tempat supermarket tersebut.
 
 ## 2. Requirements
 ### 1) Membuat proses untuk menghasilkan ID transaksi pelanggan
