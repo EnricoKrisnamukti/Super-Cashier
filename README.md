@@ -5,21 +5,21 @@ Sebuah supermarket ingin menerapkan jenis pelayanan self-service. Pelayanan jeni
 tanpa perlu berada di kota tempat supermarket tersebut.
 
 ## 2. Requirements
-1) Membuat proses untuk menghasilkan ID transaksi pelanggan
-2) Membuat proses untuk menambahkan item dengan melakukan input nama barang, harga barang, dan jumlah barang
-3) Membuat proses update yang terdiri atas:
-    a) Update nama barang
-    b) Update harga barang
-    c) Update jumlah barang
-4) Membuat proses untuk menghapus barang
-5) Membuat proses untuk mereset daftar belanjaan
-6) Membuat proses untuk melakukan pengecekan pesanan pelanggan dan menampilkan pesanan dalam bentuk tabel
-7) Membuat proses untuk melihat harga total belanjaan dan menentukan diskon
+### 1) Membuat proses untuk menghasilkan ID transaksi pelanggan
+### 2) Membuat proses untuk menambahkan item dengan melakukan input nama barang, harga barang, dan jumlah barang
+### 3) Membuat proses update yang terdiri atas:
+    #### a) Update nama barang
+    #### b) Update harga barang
+    #### c) Update jumlah barang
+### 4) Membuat proses untuk menghapus barang
+### 5) Membuat proses untuk mereset daftar belanjaan
+### 6) Membuat proses untuk melakukan pengecekan pesanan pelanggan dan menampilkan pesanan dalam bentuk tabel
+### 7) Membuat proses untuk melihat harga total belanjaan dan menentukan diskon
 berdasarkan harga total belanjaan. Diskon tersebut terbagi dalam 3 kategori
 sebagai berikut :
-    a) Total belanja di atas Rp. 200.000 akan mendapatkan diskon 5%
-    b) Total belanja di atas Rp. 300.000 akan mendapatkan diskon 8%
-    c) Total belanja di atas Rp. 500.000 akan mendapatkan diskon 10%
+    #### a) Total belanja di atas Rp. 200.000 akan mendapatkan diskon 5%
+    #### b) Total belanja di atas Rp. 300.000 akan mendapatkan diskon 8%
+    #### c) Total belanja di atas Rp. 500.000 akan mendapatkan diskon 10%
     
 
 ## 3. Flowchart
@@ -83,8 +83,8 @@ sebagai berikut :
 ![image_2023-04-16_013635868](https://user-images.githubusercontent.com/117027412/232247587-7610cbcf-c0e8-41e8-b9d5-bdf5a7eb7830.png)
 
 ## 6. Future Work
-1) Menambahkan kupon berisi diskon tertentu pada pelanggan baru
-2) Menambahkan kupon berisi diskon pada pelanggan yang sudah memiliki akun lenih dari 3 bulan
-3) Menambahkan fitur untuk memnampilkan barang terjual paling banyak dalam sebulan terakhir
+#### 1) Menambahkan kupon berisi diskon tertentu pada pelanggan baru
+#### 2) Menambahkan kupon berisi diskon pada pelanggan yang sudah memiliki akun lenih dari 3 bulan
+#### 3) Menambahkan fitur untuk memnampilkan barang terjual paling banyak dalam sebulan terakhir
 
 
