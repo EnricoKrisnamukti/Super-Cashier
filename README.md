@@ -8,18 +8,16 @@ tanpa perlu berada di kota tempat supermarket tersebut.
 ### 1) Membuat proses untuk menghasilkan ID transaksi pelanggan
 ### 2) Membuat proses untuk menambahkan item dengan melakukan input nama barang, harga barang, dan jumlah barang
 ### 3) Membuat proses update yang terdiri atas:
-    #### a) Update nama barang
-    #### b) Update harga barang
-    #### c) Update jumlah barang
+    a) Update nama barang
+    b) Update harga barang
+    c) Update jumlah barang
 ### 4) Membuat proses untuk menghapus barang
 ### 5) Membuat proses untuk mereset daftar belanjaan
 ### 6) Membuat proses untuk melakukan pengecekan pesanan pelanggan dan menampilkan pesanan dalam bentuk tabel
-### 7) Membuat proses untuk melihat harga total belanjaan dan menentukan diskon
-berdasarkan harga total belanjaan. Diskon tersebut terbagi dalam 3 kategori
-sebagai berikut :
-    #### a) Total belanja di atas Rp. 200.000 akan mendapatkan diskon 5%
-    #### b) Total belanja di atas Rp. 300.000 akan mendapatkan diskon 8%
-    #### c) Total belanja di atas Rp. 500.000 akan mendapatkan diskon 10%
+### 7) Membuat proses untuk melihat harga total belanjaan dan menentukan diskon berdasarkan harga total belanjaan. Diskon tersebut terbagi dalam 3 kategori sebagai berikut :
+    a) Total belanja di atas Rp. 200.000 akan mendapatkan diskon 5%
+    b) Total belanja di atas Rp. 300.000 akan mendapatkan diskon 8%
+    c) Total belanja di atas Rp. 500.000 akan mendapatkan diskon 10%
     
 
 ## 3. Flowchart
