@@ -82,7 +82,7 @@ tanpa perlu berada di kota tempat supermarket tersebut.
 
 ## 6. Future Work
 #### 1) Menambahkan kupon berisi diskon tertentu pada pelanggan baru
-#### 2) Menambahkan kupon berisi diskon pada pelanggan yang sudah memiliki akun lenih dari 3 bulan
-#### 3) Menambahkan fitur untuk memnampilkan barang terjual paling banyak dalam sebulan terakhir
+#### 2) Menambahkan kupon berisi diskon pada pelanggan yang sudah memiliki akun lebih dari 3 bulan
+#### 3) Menambahkan fitur untuk menampilkan barang terjual paling banyak dalam sebulan terakhir
 
 
